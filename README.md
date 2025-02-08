@@ -1,8 +1,8 @@
-### Toy Production Optimization
+# Production Optimization
 
 ## Overview
 
-This project implements a Linear Programming (LP) model to maximize the daily profit of UbiquityInc’s toy production during the Christmas season. The optimization problem considers individual toy production constraints, an overall daily production limit, and special packages that yield higher profits than the sum of their individual components.
+This project implements a Linear Programming (LP) model to maximize the daily profit toy production during the Christmas season. The optimization problem considers individual toy production constraints, an overall daily production limit, and special packages that yield higher profits than the sum of their individual components.
 
 The solution is developed in Python using the **PuLP** library to formulate and solve the LP problem.
 
